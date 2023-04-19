@@ -1,0 +1,10 @@
+Functional Programming concepts and principles:
+1- First class functions (first-class citizen functions)
+  It means that a function in JavaScript is just another value that we can:
+    - pass to other functions
+    - save in a variable
+    - return from other functions
+    
+2- Higher order function 
+3- Pure functions and side-effects
+
